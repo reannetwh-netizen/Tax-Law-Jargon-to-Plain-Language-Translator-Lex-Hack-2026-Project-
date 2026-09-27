@@ -2,8 +2,7 @@
 
 ## Summary
 A small Retrieval-Augmented Generation tool that answers Singapore income tax
-questions in plain English, grounded in documents you provide (IRAS e-Tax
-Guides, the Income Tax Act, FAQ pages, etc).
+questions in plain English.
 
 ## Video Demo
 https://drive.google.com/file/d/1beQKsvY74n-GAyVbRsQXWVk-VUmiZLTX/view?usp=sharing
