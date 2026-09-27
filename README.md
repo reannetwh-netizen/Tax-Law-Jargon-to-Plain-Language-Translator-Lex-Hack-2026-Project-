@@ -13,7 +13,7 @@ Language: Python 3.9.6
 AI/LLM: Open AI API (gpt-4o-mini and text-embedding-3-small) + Retrieval-Augmented Generation (RAG)
 Data Ingestion: pypdf and tiktoken
 Retrieval/Search: NumPy and JSON
-Frontend/UI: Streamlite
+Frontend/UI: Streamlit
 
 ## 1. Install
 
